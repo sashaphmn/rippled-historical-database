@@ -5359,3 +5359,5 @@ A Validation Object has the following fields:
 [Ledger Index]: https://developers.ripple.com/basic-data-types.html#ledger-index
 [Sequence Number]: https://developers.ripple.com/basic-data-types.html#account-sequence
 [transaction cost]: https://developers.ripple.com/transaction-cost.html
+
+[🔼Back to top!](#Ripple-Data-API-v2)
